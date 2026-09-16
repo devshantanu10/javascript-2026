@@ -1,1 +1,3 @@
-function getData()
+function getData(dataId){
+    console.log("data" , data)
+}
