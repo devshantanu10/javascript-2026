@@ -1,3 +1,8 @@
 function getData(dataId){
-    console.log("data" , data)
+    setTimeout(() => {
+        console.log("data" , dataId)
+    } , 2000)
 }
+
+
+
