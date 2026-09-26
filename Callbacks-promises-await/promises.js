@@ -4,6 +4,4 @@ let promise = new Promise ((resolve, reject) => {
     resolve("success");
     reject("some error occured");
 
-})
-
-
+});
